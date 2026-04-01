@@ -1,0 +1,3 @@
+User-agent:*
+Disallow:
+Sitemap: https://friends.transitionspro-ara.fr/sitemap.xml
